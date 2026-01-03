@@ -1,5 +1,5 @@
 # Flatlooks Openbox themes
-![Screenshot: Flatlooks Openbox themes](../assets/flatlooks-openbox.png?raw=true "Screenshot: Greylooks Openbox themes")
+![Screenshot: Flatlooks Openbox themes](../assets/flatlooks-openbox.png?raw=true "Screenshot: Flatlooks Openbox themes")
 
 ## About
 These themes are designed to be consistent with the corresponding [Greylooks GTK2/3](https://github.com/vbrand1984/greylooks) themes, so it's better to use them together.

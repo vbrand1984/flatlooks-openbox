@@ -1,4 +1,4 @@
-# Greylooks Openbox themes
+# Flatlooks Openbox themes
 ![Screenshot: Flatlooks Openbox themes](../assets/flatlooks-openbox.png?raw=true "Screenshot: Greylooks Openbox themes")
 
 ## About

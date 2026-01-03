@@ -1,10 +1,17 @@
-# Flatlooks Openbox themes
-Greylooks theme variants for Openbox with flat titlebars.
+# Greylooks Openbox themes
+![Screenshot: Greylooks Openbox themes](../assets/flatlooks-openbox.png?raw=true "Screenshot: Greylooks Openbox themes")
 
 ## About
 These themes are designed to be consistent with the corresponding [Greylooks GTK2/3](https://github.com/vbrand1984/greylooks) themes, so it's better to use them together.
 
 Also, check my [vim syntax highlighting plugin for Openbox themes](https://github.com/vbrand1984/ob3-vim-syntax), if you're interested in creating and modifying these themes.
+
+## Version history
+### 2026-01-04 Update
+1. Color hues were slightly changed while preserving the whole idea, vibe and atmosphere of the theme.
+2. Purple and Sand colour variants are added.
+3. Window titlebars are now coloured for the [vanilla Greylooks Openbox theme pack](https://github.com/vbrand1984/greylooks-openbox).
+4. Actual theme version with flat (non-coloured) window titlebars is now available in this repository.
 
 ## Author
 The author of the `themerc` files is Victor Brand. Button assets are borrowed elsewhere, mostly from the [BunsenLabs](https://github.com/BunsenLabs/bunsen-themes
